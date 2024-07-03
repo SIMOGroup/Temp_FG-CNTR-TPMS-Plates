@@ -1,9 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Title: Isogeometric analysis for Temperature-dependent CNTR-FG-TPMS plates with five-variable plate model %%
+%%% Title: Isogeometric analysis for Temperature-dependent FG-CNTR-TPMS plates with five-variable plate model %%
 % Author: Kim Q. Tran, H. Nguyen-Xuan
 % ! Please reference to paper: ............................................
 % ! This work can be used, modified, and shared under the MIT License
-% ! This work can be found in https://github.com/SIMOGroup/Temp_CNTR-FG-TPMS-Plates
+% ! This work can be found in https://github.com/SIMOGroup/Temp_FG-CNTR-TPMS-Plates
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% =========================== Initialization =============================
