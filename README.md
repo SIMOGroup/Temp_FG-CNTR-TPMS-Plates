@@ -15,4 +15,4 @@ This repository provides the basic source code of the investigation on the tempe
 - Hung Nguyen-Xuan
 
 # References
-Kim Q. Tran, Thoi V. Duong, Tien-Dat Hoang, Magd Abdel Wahab, Klaus Hackl, Hung Nguyen-Xuan, A new thermoelastic model for agglomerated CNT-reinforced bio-inspired materials: Temperature-dependent free vibration analysis of FG-CNTR-TPMS plates, Composites Part B: Engineering (2024), Revision.
+Kim Q. Tran, Thoi V. Duong, Tien-Dat Hoang, Magd Abdel Wahab, Klaus Hackl, Hung Nguyen-Xuan, A new thermoelastic model for agglomerated CNT-reinforced bio-inspired materials: Temperature-dependent free vibration analysis of FG-CNTR-TPMS plates, Engineering Analysis with Boundary Elements (2024), Accepted.
